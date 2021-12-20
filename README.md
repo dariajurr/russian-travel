@@ -6,8 +6,8 @@
 
 **Технологии**
 
-*HTML
-*CSS
+* HTML
+* CSS
 
 **GitHub Pages**
 
