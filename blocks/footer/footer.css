@@ -6,15 +6,15 @@
   align-items: start;  
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 1024px) {
   .footer {
-    padding: 88px 24px 24px;
+    padding: 92px 48px 24px;
   }
 }
 
 @media screen and (min-width: 768px) {
   .footer {
-    padding: 92px 48px 24px;
+    padding: 88px 24px 24px;
     flex-direction: row;
     align-items: center;
   }
