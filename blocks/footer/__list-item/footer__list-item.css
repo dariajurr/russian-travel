@@ -6,15 +6,16 @@
 .footer__list-item:not(:last-child) {
   margin-bottom: 32px;
 }
-
+  
 @media screen and (min-width: 768px) {
   .footer__list-item {
     font-size: 16px;
-    line-height: 1.12;
-    margin-bottom: 0;
+    line-height: 1.12;    
   }
-
+  
   .footer__list-item:not(:last-child) {
+    margin-bottom: 0;
     margin-right: 18px;
   }
+  
 }
